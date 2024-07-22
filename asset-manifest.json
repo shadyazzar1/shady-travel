@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/shady-travel/static/css/main.1aacda70.css",
+    "main.js": "/shady-travel/static/js/main.21d3fc55.js",
+    "static/media/travel.mp4": "/shady-travel/static/media/travel.ed039e8fda0b337dd185.mp4",
+    "static/media/heroimg.jpg": "/shady-travel/static/media/heroimg.1d0b61ae425b188229e3.jpg",
+    "index.html": "/shady-travel/index.html",
+    "main.1aacda70.css.map": "/shady-travel/static/css/main.1aacda70.css.map",
+    "main.21d3fc55.js.map": "/shady-travel/static/js/main.21d3fc55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aacda70.css",
+    "static/js/main.21d3fc55.js"
+  ]
+}
